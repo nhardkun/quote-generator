@@ -1,24 +1,28 @@
 const quotes = [
 	{
-		quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-		author: "Winston Churchill"
+		quote: "The more KAPE you take, the more chances that you'll be awake.",
+		author: "Barack Obama"
 	},
 	{
-		quote: "The only way to do great work is to love what you do.",
-		author: "Steve Jobs"
+		quote: "Don't stop when you're tired, stop when you're done.",
+		author: "Jhonny Sins"
 	},
 	{
-		quote: "Believe you can and you're halfway there.",
-		author: "Theodore Roosevelt"
+		quote: "Sa likod ng bawat tagumpay, maraming tasa ng kape ang naging karamay.",
+		author: "Will Smith"
 	},
 	{
-		quote: "It does not matter how slowly you go as long as you do not stop.",
+		quote: "Wala kang magagawa kung wala kang gagawin.",
 		author: "Confucius"
 	},
 	{
-		quote: "Success is not how high you have climbed, but how you make a positive difference to the world.",
+		quote: "Simple lang ang buhay, piliin mo na lagi kang masaya.",
 		author: "Roy T. Bennett"
 	}
+	
+	
+	
+	
 ];
 
 const quote = document.getElementById("quote");

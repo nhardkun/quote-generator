@@ -1,0 +1,26 @@
+#quote-container {
+	text-align: center;
+	margin-top: 50px;
+	font-family: Arial, sans-serif;
+}
+
+#quote {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#author {
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+#new-quote {
+	margin-top: 20px;
+	font-size: 16px;
+	padding: 10px 20px;
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
